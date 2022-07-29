@@ -1,0 +1,12 @@
+Buenas, soy Aaron y tengo 23 años.
+
+Actualmente trabajo como analista programador sobre todo orientado a backend con Java y SpringBoot. 
+Estoy aprendiendo frontend, tanto React en mi empresa como maquetación y vue en Ironhack.
+
+Mis principales aficiones son:
+	- tanto ver como jugar futbol y baloncesto.
+	- pinchar musica con mi tabla de mezclas.
+	- hacer ejercicio.
+	- probar nuevos restaurantes.
+
+
